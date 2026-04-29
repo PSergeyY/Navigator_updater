@@ -1,5 +1,5 @@
 {
-  "version": "1.1.2",
-  "zip_url": "https://github.com/PSergeyY/Navigator_updater/releases/download/v1.1.2/update.enc",
-  "changelog": "Исправлена уязвимость обхода лицензии: исключены loopback-адреса (127.*) из списка проверки IP."
+  "version": "1.2.0",
+  "zip_url": "https://1drv.ms/u/c/ae3aa44342142363/IQD5tJLIg7kZSrp6LdMv3-IuAZgqzMd5ZkbZtfcViJpKwsI?e=18WFC4",
+  "changelog": "Architecture stability fixes, complete UI tooltips coverage, updated documentation, AI marker tracking improvements."
 }

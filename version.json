@@ -1,5 +1,5 @@
 {
-  "version": "1.2.0",
-  "zip_url": "https://github.com/PSergeyY/Navigator_updater/releases/download/v1.2.0/update.enc",
-  "changelog": "Architecture stability fixes, complete UI tooltips coverage, updated documentation, AI marker tracking improvements."
+  "version": "1.2.1",
+  "zip_url": "https://github.com/PSergeyY/Navigator_updater/releases/download/v1.2.1/update.enc",
+  "changelog": "Interface standardization of the HUD and AI modules, UI layout improvements."
 }

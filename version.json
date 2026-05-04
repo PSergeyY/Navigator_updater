@@ -1,5 +1,5 @@
 {
-  "version": "1.2.1",
-  "zip_url": "https://github.com/PSergeyY/Navigator_updater/releases/download/v1.2.1/update.enc",
-  "changelog": "Interface standardization of the HUD and AI modules, UI layout improvements."
+  "version": "1.2.3",
+  "zip_url": "https://github.com/PSergeyY/Navigator_updater/releases/download/v1.2.3/update.enc",
+  "changelog": "Интеграция телеметрии тротла на HUD, исправление включения алгоритма поиска дронов, исправление включения динамической линейки и улучшение интерфейса."
 }
